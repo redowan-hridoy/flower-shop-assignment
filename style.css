@@ -16,3 +16,24 @@
     font-weight: bolder;
     font-size: larger;
 }
+.chest{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:pink;
+    padding: 90px;
+    padding-left: 120px;
+    height: 55vh;
+}
+.chest-heading{
+    font-size: 60px;
+    margin-bottom: 12px;
+}
+.chest-btn{
+    padding: 12px;
+    color: aliceblue;
+    background-color:rgb(243, 56, 56);
+    margin-top: 15px;
+    border-radius: 5px;
+    border-color:rgb(243, 56, 56);
+}
