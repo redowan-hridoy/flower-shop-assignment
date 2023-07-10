@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    background-color: rgb(184, 95, 184);
+    height: 10vh;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: larger;
+}
